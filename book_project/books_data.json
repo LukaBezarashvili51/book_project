@@ -1,0 +1,20 @@
+[
+  {
+    "title": "moby-dick",
+    "author": "Herman Melville",
+    "publication_date": "1851-18-09",
+    "price": 10.99
+  },
+  {
+    "title": "the idiot",
+    "author": "Fyodor Dostoevsky",
+    "publication_date": "1869-02-01",
+    "price": 15.99
+  },
+  {
+    "title": "Critique of pure Reason",
+    "author": "Immanuel Kant",
+    "publication_date": "1781-07-05",
+    "price": 12.99
+  }
+]
